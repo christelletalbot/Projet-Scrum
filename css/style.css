@@ -1,0 +1,20 @@
+header {
+	background-image: url(https://cdn.pixabay.com/photo/2017/01/22/19/12/pizza-2000595_960_720.jpg);
+	color:#fff;
+	background-size: cover;
+}
+
+.headertop ul {	
+	display: flex;
+	list-style: none;
+	justify-content: space-between;
+	line-height: 4;
+}
+
+.headermiddle {
+	text-align: center;
+}
+
+.headerbottom ul {
+	text-align: center;
+}
