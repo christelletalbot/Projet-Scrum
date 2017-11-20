@@ -1,0 +1,25 @@
+section {
+	color: #000000
+}
+
+.section1, h2{
+	text-align: center;
+	color:#FF0000;
+	font-weight: bold;
+	font-stretch: expanded;
+}
+
+.section1,p {
+	text-align: center
+}
+
+.section1, ul {
+	display: flex;
+	justify-content: space-between;
+
+}
+.section1, image {
+ 	text-align: center;
+ 	width: 70%;
+
+}
