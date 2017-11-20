@@ -31,3 +31,37 @@ body{
 	color: #fa4656;
 }
 
+.footer {
+	background-color: #efffe9;
+}
+
+.footer form {
+	padding: 1em;
+	display: inline-block;
+	margin-left: 6%;
+
+}
+
+.footer form input {
+	width: 20em;
+	line-height: 2em;
+
+}
+
+.footer h2 {
+	padding: 1em;
+	text-align: center;
+
+}
+
+.block ul{
+	list-style: none;
+	justify-content: space-between;
+	line-height: 10;
+	display: inline-flex;
+}
+.block {
+	display: inline-block;
+	margin-left: 70%;
+	position: relative;
+}
