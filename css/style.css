@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 section {
 	color: #000000
 }
@@ -23,3 +24,72 @@ section {
  	width: 70%;
 
 }
+=======
+body{
+	font-size: 18px;
+	font-family: 'Maven Pro', sans-serif;
+
+}
+
+.sectionservice{
+/*	background-color: #000; */
+	background-image: url("https://cdn.pixabay.com/photo/2017/01/22/19/12/pizza-2000595_960_720.jpg"); 
+	background-size: cover;
+	text-align: center; 
+}
+.listelogo, ul{
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+}
+
+.sectionservice h2, h3{
+	color: #fa4656;
+}
+
+.sectionservice p{
+	color: #fff;
+}
+
+.sectionservice .chevron a{
+	color: #fff;
+}
+.listemenu a{
+	color: #fa4656;
+}
+
+.footer {
+	background-color: #efffe9;
+}
+
+.footer form {
+	padding: 1em;
+	display: inline-block;
+	margin-left: 6%;
+
+}
+
+.footer form input {
+	width: 20em;
+	line-height: 2em;
+
+}
+
+.footer h2 {
+	padding: 1em;
+	text-align: center;
+
+}
+
+.block ul{
+	list-style: none;
+	justify-content: space-between;
+	line-height: 10;
+	display: inline-flex;
+}
+.block {
+	display: inline-block;
+	margin-left: 70%;
+	position: relative;
+}
+>>>>>>> 989887ad5651c446f63f82ee411fe38644ccdf8f
